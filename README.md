@@ -11,7 +11,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
 ### **Planificación**  
-Día 1 : 
+Día 1 :
   - Planificación del trabajo.  
   - Planteamiento de preguntas a usuarios.
     - 10 Preguntas (Online/Presencial).
@@ -30,4 +30,4 @@ Día 2 :
 
     - Punto de encuentro Laboratoria 12:00pm para reunir todas la información recaudada.
     - Realizar un mapa de afinidad o lluvia de ideas para detectar las necesidades del usuario.
-    - Investigar empresas de el mismo rubro.  
+    - Investigar empresas del mismo rubro.  
