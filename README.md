@@ -11,12 +11,13 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
 ### **Planificación**  
-Día 1 :
+![Hoja de planificacion](assets/images/planificacion.jpg)  
+#### Día 1 :
   - Planificación del trabajo.  
   - Planteamiento de preguntas a usuarios.
     - 10 Preguntas (Online/Presencial).
 
-Día 2 :  
+#### Día 2 :  
 - **Ux Research** : Entrevistas a usuarios.  
 
   - Horario de encuentro del grupo para la entrevista 9:00am.  
@@ -31,3 +32,23 @@ Día 2 :
     - Punto de encuentro Laboratoria 12:00pm para reunir todas la información recaudada.
     - Realizar un mapa de afinidad o lluvia de ideas para detectar las necesidades del usuario.
     - Investigar empresas del mismo rubro.  
+
+#### Día 3 :  
+
+
+
+
+## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**  
+![Hoja de planificacion](assets/images/collage.jpg)  
+
+Entrevistamos a 23 personas de entre 22 y 60 años para evaluar sus necesidades. Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
+
+Segun las encuestas que realizamos el 60% de las personas nos indican que desean :  
+
+- Rapidez en la venta de pasajes.  
+- Que la empresa de buses en la que viajaran sea cómoda y económica.  
+- Habilitar mas pasajes y mas buses por que no se dan abasto.   
+- Eligen a la empresa en la que viajaran por que hay mucha seguridad.  
+- Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada.  
+
+**continuara...**
