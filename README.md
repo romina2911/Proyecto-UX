@@ -11,7 +11,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
 ### **Planificación**  
-![Hoja de planificacion](assets/images/planificacion.jpg)  
+![Hoja de planificacion](assets/images/planificacion.JPG)  
 #### Día 1 :
   - Planificación del trabajo.  
   - Planteamiento de preguntas a usuarios.
