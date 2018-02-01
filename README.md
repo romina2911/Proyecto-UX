@@ -41,7 +41,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 ## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**  
 ![Hoja de planificacion](assets/images/collage.jpg)  
 
-Entrevistamos a 23 personas de entre 22 y 60 años para evaluar sus necesidades. Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
+Entrevistamos a 26 personas de entre 22 y 60 años para evaluar sus necesidades. Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
 
 Segun las encuestas que realizamos el 60% de las personas nos indican que desean :  
 
