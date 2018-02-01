@@ -27,7 +27,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
   - 20 Personas a entrevistar aproximadamente.  
 
 
--  **Análisis de Usuario** : Analizando la información recaudada.
+-  **Análisis de Usuario**  : Analizando la información recaudada.
 
     - Punto de encuentro Laboratoria 12:00pm para reunir todas la información recaudada.
     - Realizar un mapa de afinidad o lluvia de ideas para detectar las necesidades del usuario.
