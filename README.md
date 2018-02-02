@@ -38,7 +38,10 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 
 
-## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**  
+## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.** 
+
+## **Encuestas presenciales.** 
+
 ![Hoja de planificacion](assets/images/collage.jpg)  
 
 Entrevistamos a 26 personas de entre 22 y 60 años para evaluar sus necesidades. Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
@@ -49,6 +52,10 @@ Segun las encuestas que realizamos el 60% de las personas nos indican que desean
 - Que la empresa de buses en la que viajaran sea cómoda y económica.  
 - Habilitar mas pasajes y mas buses por que no se dan abasto.   
 - Eligen a la empresa en la que viajaran por que hay mucha seguridad.  
-- Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada.  
+- Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada. 
 
+## **Encuestas on-line.** 
+Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades así como también los problemas más frecuentes al viajar en bus.
+![Encuestas](assets/images/encuesta.jpg)  
+![Encuestas](assets/images/encuesta2.jpg)
 **continuara...**
