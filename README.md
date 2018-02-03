@@ -57,8 +57,8 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 #### Día 6:
 - **Testeo**
- - Hacer un content prototype.  
- - Testearlo en pareja con compañeras de otro scuad.
+     - Hacer un content prototype.  
+     - Testearlo en pareja con compañeras de otro scuad.
 
 
 ## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**
