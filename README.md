@@ -63,13 +63,52 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 ## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**
 
+#### Día 2
+
 ## **Encuestas presenciales.**
 
 ![Hoja de planificacion](assets/images/collage.jpg)  
 
-Entrevistamos a 26 personas de entre 22 y 60 años para evaluar sus necesidades. Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
+- Entrevistamos a 26 personas de entre 22 y 60 años para evaluar sus necesidades.
+- Localización:
+   - Punto 1: Av. Javier Prado Este – Lima: Agencias de Transporte Terrestre.
+   - Punto 2: Av.28 de Julio –La Victoria: Agencias de Transporte Terrestre.
+- Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
 
-Segun las encuestas que realizamos el 60% de las personas nos indican que desean :  
+### **Preguntas:**
+
+1. ¿Alguna experiencia buena o mala con los servicios que ofrece
+ la empresa de buses?
+
+2. ¿A su parecer cuál es el mayor problema que tienen las empresas de transporte (Embarque, Desembarque, Compra de pasajes, Cambio de boletos u otros inconvenientes)?  
+
+3. ¿Qué es lo que más se le dificulta al momento de elegir su horario de viaje?
+
+4. ¿Por qué motivos viaja?
+
+5. ¿Cómo elige en que empresa viajar?
+
+6. ¿Qué tan sencillo consideras el proceso de reserva de pasajes en la empresa de buses?
+
+7. ¿Con qué frecuencia viaja?
+
+8. ¿Cuál es el presupuesto que invierte en la compra de su pasaje?
+
+9. Usted compra sus boletos de manera presencial o vía web?
+
+10. ¿Cuál es el problema más recurrente al viajar en festividades?¿
+
+
+#### **Respuesta de uno de los entrevistados:**
+
+  -  *Viajo por motivos familiares.*   
+  - *Siempre viajo por confianza.*  
+  - *Separo mi boleto de manera presencial.*  
+  - *Aproximadamente 100 soles.*  
+  - *El precio se incrementa de los pasajes.*
+
+
+#### **Segun las encuestas que realizamos el 60% de las personas nos indican que desean :**  
 
 - Rapidez en la venta de pasajes.  
 - Que la empresa de buses en la que viajaran sea cómoda y económica.  
@@ -79,6 +118,40 @@ Segun las encuestas que realizamos el 60% de las personas nos indican que desean
 
 ## **Encuestas on-line.**
 Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades así como también los problemas más frecuentes al viajar en bus.
+
 ![Encuestas](assets/images/encuesta.jpg)  
+
 ![Encuestas](assets/images/encuesta2.jpg)
+
+#### Día 3 :  
+
+-  **Diagrama  de afinidad**
+
+Se desarrolló el análisis de las encuestas realizadas para poder recopilar toda la información y los problemas encontrados.
+
+Empleamos el **Diagrama de Afinidad** para poder identificar  y clasificar los diversos problemas encontrados.
+
+![Diagrama](assets/images/diagrama-1.jpg)
+
+Se consideró clasificar los problemas por temas.
+
+Por ejemplo :
+
+ Servicios, frecuencia de viaje, formas de pago, precios, etc.
+
+![Diagrama](assets/images/diagrama-2.jpg)
+
+![Diagrama](assets/images/diagrama-3.jpg)
+
+
+
+El trabajo previo permitió encontrar el problema más común.
+
+- El incremento de los pasajes en festividades y la falta de información.
+
+![Diagrama](assets/images/diagrama-4.jpg)
+
+
+
 **continuara...**
+#### Día 4 :
