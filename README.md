@@ -34,13 +34,36 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
     - Investigar empresas del mismo rubro.  
 
 #### Día 3 :  
+-  **Mapa de afinidad**
+      - Realizar un mapa de afinidad o lluvia de ideas para detectar las necesidades del usuario.
+      - Priorizar y decidir qué problemática vamos a abordar.  
+      - Hacer un benchmark y buscar referencias relacionadas a el problema.  
+
+#### Día 4 :
+- **Presentacion del problema** : Presentacion en clase y feedback del problema a tratar.
+    - Explicación de los temas encontrados en el diagrama de afinidad.  
+    - ¿Cómo priorizaron y seleccionaron el problema de su squad?  
+    - Presentación del problema a abordar.  
+
+#### Día 5:  
+- **User personas y Brainstorming**
+    - Crear un user persona para entender mejor las metas, deseos y limitaciones de los principales grupos de usuario de nuestro producto.  
+    - Elaborar los problem statements del caso ya que nos ayudaran a centrarnos en resultados y no en productos.  
+    - Escribir HMW y what if? para asi entender mejor los problemas y desarrollar mejores hipótesis.  
+    - Hacer una lista de funcionalidades que pueden resolver los HMW.  
+- **Definir el MVP**
+    - Priorizar lista de features y definir el MVP.  
+    - Hacer un storyboard y recivir feedback.  
+
+#### Día 6:
+- **Testeo**
+ - Hacer un content prototype.  
+ - Testearlo en pareja con compañeras de otro scuad.
 
 
+## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**
 
-
-## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.** 
-
-## **Encuestas presenciales.** 
+## **Encuestas presenciales.**
 
 ![Hoja de planificacion](assets/images/collage.jpg)  
 
@@ -52,9 +75,9 @@ Segun las encuestas que realizamos el 60% de las personas nos indican que desean
 - Que la empresa de buses en la que viajaran sea cómoda y económica.  
 - Habilitar mas pasajes y mas buses por que no se dan abasto.   
 - Eligen a la empresa en la que viajaran por que hay mucha seguridad.  
-- Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada. 
+- Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada.
 
-## **Encuestas on-line.** 
+## **Encuestas on-line.**
 Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades así como también los problemas más frecuentes al viajar en bus.
 ![Encuestas](assets/images/encuesta.jpg)  
 ![Encuestas](assets/images/encuesta2.jpg)
