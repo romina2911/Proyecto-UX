@@ -151,7 +151,40 @@ El trabajo previo permitió encontrar el problema más común.
 
 ![Diagrama](assets/images/diagrama-4.jpg)
 
+#### Día 4 :
+Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
+
+- **User Persona**
+  Nombre: Ana Rodríguez 
+  Edad: 35 años
+  Sexo: Mujer 
+  Estado Civil: Soltera 
+  Ocupación: Comerciante
+  Distrito: Cercado de Lima
+
+  Frase: “Detesto tener que pagar más por mis pasajes para poder realizar viajes en fiestas.”
+
+  Biografía: Comerciante emprendedora, madre de dos pequeños de edades consecutivas, Mauro de 13 y Olivia de 11. Originaria de Piura que radica en la ciudad de Lima, aprovecha en viajar en días festivos para distraerse o visitar a su familia. 
+  Al tener que viajar en fechas festivas el alza de pasaje le molesta, olvida que se acercan dichas fechas y tiene que correr a comprar su pasaje.
+
+- **Problem Statement**
+  1. Ana quisiera viajar en una empresa que brinde seguridad en base a la recomendación de otras personas.
+  2. Ana necesita reservar sus pasajes para economizar más.
+  3. Ana necesita recordar las fechas exactas de feriados u otros acontecimientos para la reserva de su pasaje.
+  4. Ana necesita ser informada para comprar sus pasajes a tiempo.
+  5. Ana necesita alternativas de precios de pasajes para elegir el que le conviene. 
+
+- **HMW – How Might We?**
+  ¿Cómo podríamos ayudar a Ana a reservar sus pasajes con anticipación?
+  ¿Cómo podríamos ayudar a Ana a economizar?
+  ¿Cómo podríamos brindarle sugerencias a Ana sobre en qué empresa debe viajar?
+
+
+- **Whats if?**
+  ¿Qué tal si hablo con empresas para que no suban los precios por fiestas?
+  ¿Qué tal su Ana no sabe utilizar la app?
+  ¿Qué tal si Ana no tiene un Smartphone?
+  ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
 
 
 **continuara...**
-#### Día 4 :
