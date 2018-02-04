@@ -155,12 +155,12 @@ El trabajo previo permitió encontrar el problema más común.
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
 - **User Persona**
-  Nombre: Ana Rodríguez 
-  Edad: 35 años
-  Sexo: Mujer 
-  Estado Civil: Soltera 
-  Ocupación: Comerciante
-  Distrito: Cercado de Lima
+  - Nombre: Ana Rodríguez 
+  - Edad: 35 años
+  - Sexo: Mujer 
+  - Estado Civil: Soltera 
+  - Ocupación: Comerciante
+  - Distrito: Cercado de Lima
 
   Frase: “Detesto tener que pagar más por mis pasajes para poder realizar viajes en fiestas.”
 
@@ -175,16 +175,16 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
   5. Ana necesita alternativas de precios de pasajes para elegir el que le conviene. 
 
 - **HMW – How Might We?**
-  ¿Cómo podríamos ayudar a Ana a reservar sus pasajes con anticipación?
-  ¿Cómo podríamos ayudar a Ana a economizar?
-  ¿Cómo podríamos brindarle sugerencias a Ana sobre en qué empresa debe viajar?
+  - ¿Cómo podríamos ayudar a Ana a reservar sus pasajes con anticipación?
+  - ¿Cómo podríamos ayudar a Ana a economizar?
+  - ¿Cómo podríamos brindarle sugerencias a Ana sobre en qué empresa debe viajar?
 
 
 - **Whats if?**
-  ¿Qué tal si hablo con empresas para que no suban los precios por fiestas?
-  ¿Qué tal su Ana no sabe utilizar la app?
-  ¿Qué tal si Ana no tiene un Smartphone?
-  ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
+  - ¿Qué tal si hablo con empresas para que no suban los precios por fiestas?
+  - ¿Qué tal su Ana no sabe utilizar la app?
+  - ¿Qué tal si Ana no tiene un Smartphone?
+  - ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
 
 
 **continuara...**
