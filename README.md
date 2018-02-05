@@ -216,15 +216,15 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 ¿Cómo quieres conectarte a Easy Bus?
 
  
-   •	Facebook
+   - Facebook
  
-   •	Gmail
+   - Gmail
   
-   •	Crea tu cuenta
+   - Crea tu cuenta
   
-            - Ingresa correo electrónico 
-            - Ingresa clave
-            - Ingresa nombre
+    		- Ingresa correo electrónico 
+    		- Ingresa clave
+    		- Ingresa nombre
             
 (Elige conectarse con “Gmail”)
 
@@ -247,9 +247,9 @@ Estos son los destinos de viaje que tenemos para ti:
 Al elegir tu destino(s)
 
 
-   •	Ahora te alertaremos cuando viene un feriado o festividad para reservar o comprar tu pasaje a menos precio.
+   - Ahora te alertaremos cuando viene un feriado o festividad para reservar o comprar tu pasaje a menos precio.
   
-   •	Se generará una alerta de próximos días feriados o festividades
+   - Se generará una alerta de próximos días feriados o festividades
 
 Cajamarca, maravilloso lugar, se acercan los Carnavales, disfrutaras de las celebraciones.
 
@@ -269,11 +269,11 @@ Perfecto estas empresas cubren tú presupuesto y están disponibles según tú d
 
 Ingresa la información para tu pasaje
 
-    	   - DNI
-	   - Fecha de viaje
-           - Horario
-           - Asiento
-    	   - Ruc/boleta
+    	     - DNI
+	     - Fecha de viaje
+             - Horario
+             - Asiento
+    	     - Ruc/boleta
             
 La  información de registro de tu pasaje.
 
@@ -284,7 +284,7 @@ Si no está seguro(a) de pagar aun, puedes reservar tu pasaje.
 Tu reserva expirará (un lapso de tiempo.)
 
 
-   •	Se generará un recordatorio de reserva de su pasaje.
+   - Se generará un recordatorio de reserva de su pasaje.
   
 Si deseas cancelar el pasaje, elegirás el medio de pagó.
 
@@ -305,7 +305,7 @@ Solo preocúpate de disfrutar tu viaje.
 
 Configura tus alertas de viaje.
 
-   •	Ahora dinos, cada cuanto tiempo quieres que te hagamos recordar:
+   - Ahora dinos, cada cuanto tiempo quieres que te hagamos recordar:
   
              - Una vez al día
              - Dos veces por semana
