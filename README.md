@@ -40,7 +40,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
       - Hacer un benchmark y buscar referencias relacionadas a el problema.  
 
 #### Día 4 :
-- **Presentacion del problema** : Presentacion en clase y feedback del problema a tratar.
+- **Presentación del problema** : Presentación en clase y feedback del problema a tratar.
     - Explicación de los temas encontrados en el diagrama de afinidad.  
     - ¿Cómo priorizaron y seleccionaron el problema de su squad?  
     - Presentación del problema a abordar.  
@@ -49,19 +49,19 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 - **User personas y Brainstorming**
     - Crear un user persona para entender mejor las metas, deseos y limitaciones de los principales grupos de usuario de nuestro producto.  
     - Elaborar los problem statements del caso ya que nos ayudaran a centrarnos en resultados y no en productos.  
-    - Escribir HMW y what if? para asi entender mejor los problemas y desarrollar mejores hipótesis.  
+    - Escribir HMW y what if? para así entender mejor los problemas y desarrollar mejores hipótesis.  
     - Hacer una lista de funcionalidades que pueden resolver los HMW.  
 - **Definir el MVP**
     - Priorizar lista de features y definir el MVP.  
-    - Hacer un storyboard y recivir feedback.  
+    - Hacer un storyboard y recibir feedback.  
 
 #### Día 6:
 - **Testeo**
      - Hacer un content prototype.  
-     - Testearlo en pareja con compañeras de otro scuad.
+     - Testearlo en pareja con compañeras de otro squad.
 
 
-## **UX RESEARCH Y ANALISIS DE USUSARIO.**
+## **UX RESEARCH Y ANALISIS DE USUARIO.**
 
 #### Día 2
 
@@ -96,7 +96,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 9. Usted compra sus boletos de manera presencial o vía web?
 
-10. ¿Cuál es el problema más recurrente al viajar en festividades?¿
+10. ¿Cuál es el problema más recurrente al viajar en festividades?
 
 
 #### **Respuesta de uno de los entrevistados:**
@@ -108,7 +108,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
   - *El precio se incrementa de los pasajes.*
 
 
-#### **Segun las encuestas que realizamos el 60% de las personas nos indican que desean :**  
+#### **Según las encuestas que realizamos el 60% de las personas nos indican que desean :**  
 
 - Rapidez en la venta de pasajes.  
 - Que la empresa de buses en la que viajaran sea cómoda y económica.  
@@ -202,4 +202,112 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 
 ## **STORYBOARD**
 #### Día 6 :
+
+
+## ** PROTOTYPING CONTENT**
+#### Día 7 :
+
+EASY BUS
+
+"Bienvenido a Easy Bus, donde comprar o reservar tu pasaje nunca fue tan fácil!"
+
+¿Cómo quieres conectarte a Easy Bus?
+ 
+   •	Facebook
+ 
+   •	Gmail
+  
+   •	Crea tu cuenta
+  
+            - Ingresa correo electrónico 
+            - Ingresa clave
+            - Ingresa nombre
+            
+(Elige conectarse con “Gmail”)
+
+Permitir el uso de GPS para la ubicación.
+
+Hola Ana [foto de perfil]   Juntos organizaremos tú viaje.
+
+¿A dónde quieres viajar?
+
+Estos son los destinos de viaje que tenemos para ti:
+
+      		  - Tumbes
+     		    - Lambayaque
+      		  - Arequipa
+      		  - Cusco
+     		    - Cajamarca
+
+(Selecciona Cajamarca)
+
+Al elegir tu destino(s)
+
+   •	Ahora te alertaremos cuando viene un feriado o festividad para reservar o comprar tu pasaje a menos precio.
+  
+   •	Se generará una alerta de próximos días feriados o festividades
+
+Cajamarca, maravilloso lugar, se acercan los Carnavales, disfrutaras de las celebraciones.
+
+Te damos la opción ingresar tu presupuesto de pasaje y elegiremos lo mejor para ti.
+
+(Ingreso su presupuesto)
+
+Perfecto estas empresas cubren tú presupuesto y están disponibles según tú destino.
+
+         		-Cruz del sur
+         		-Civa
+         		-Movil Tours
+         		-Via
+        	 	-Otros
+            
+(Elige Cruz del Sur)
+
+Ingresa la información para tu pasaje
+
+    		    -DNI
+		        -Fecha de viaje
+    		    -Horario
+    		    -Asiento
+    		    -Ruc/boleta
+            
+La  información de registro de tu pasaje.
+
+Si no está seguro(a) de pagar aun, puedes reservar tu pasaje.
+
+(Elige reservar pasaje)
+
+Tu reserva expirará (un lapso de tiempo.)
+
+   •	Se generará un recordatorio de reserva de su pasaje.
+  
+Si deseas cancelar el pasaje, elegirás el medio de pagó.
+
+         		- Visa
+   		      - Mastercard
+   		      - Pay-pal
+   		      - Pago en efectivo
+   		      - Agente bancario.
+  		      - Agencia de Viajes.
+            
+Se enviará el reporte de venta del pasaje al correo.
+
+Estaremos recordándote cuando se acerca tu fecha de partida para tomar todas las previsiones necesarias.
+
+Un gusto, el poder ayudarte a escoger la mejor opción.
+
+Solo preocúpate de disfrutar tu viaje.
+
+Configura tus alertas de viaje.
+
+   •	Ahora dinos, cada cuanto tiempo quieres que te hagamos recordar:
+  
+            - Una vez al día
+            - Dos veces por semana
+            - Una vez por semana
+            - Dos veces al mes
+
+Ahora Easy Bus te alertara cada cierto tiempo y así ahorraras en la    compra de tu pasaje.
+
+
 **continuara...**
