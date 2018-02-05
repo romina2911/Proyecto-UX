@@ -61,7 +61,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
      - Testearlo en pareja con compañeras de otro scuad.
 
 
-## **ENTENDIENDO LAS NECESIDADES DEL USUARIO.**
+## **UX RESEARCH Y ANALISIS DE USUSARIO.**
 
 #### Día 2
 
@@ -101,7 +101,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 #### **Respuesta de uno de los entrevistados:**
 
-  -  *Viajo por motivos familiares.*   
+  - *Viajo por motivos familiares.*   
   - *Siempre viajo por confianza.*  
   - *Separo mi boleto de manera presencial.*  
   - *Aproximadamente 100 soles.*  
@@ -123,9 +123,9 @@ Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades 
 
 ![Encuestas](assets/images/encuesta2.jpg)
 
-#### Día 3 :  
+## **DIAGRAMA DE AFINIDAD**
 
--  **Diagrama  de afinidad**
+#### Día 3 :  
 
 Se desarrolló el análisis de las encuestas realizadas para poder recopilar toda la información y los problemas encontrados.
 
@@ -143,15 +143,29 @@ Por ejemplo :
 
 ![Diagrama](assets/images/diagrama-3.jpg)
 
+## **PRESENTACIÓN DEL PROBLEMA**
 
+#### Día 4 :
 
-El trabajo previo permitió encontrar el problema más común.
+Temas encontrados en el diagrama de afinidad.
 
-- El incremento de los pasajes en festividades y la falta de información.
+-	Falta de información (problemas en la carretera, información en tiempo real de precios y disponibilidad de pasajes.)
+-	No cumplen con el servicio que ofrecen, el precio no va acorde con el servicio que dan.
+-	El incremento del precio del pasaje en temporada alta.
+-	El maltrato de maletas.
+-	La falta de capacitación del personal.
+-	La infraestructura de la empresa no es buena (baños y cafetería sucios)
+-	No respetan los horarios, al momento de embarcar.
+
+Después de analizar  las entrevistas presenciales y las encuestas on-line y haber realizado en grupo el diagrama de afinidad, se tomó la decisión de abarcar el siguiente problema:
+
+    El incremento de los pasajes en festividades y la falta de información.
 
 ![Diagrama](assets/images/diagrama-4.jpg)
 
-#### Día 4 :
+
+## **USER PERSON, PROBLEM STATEMENT, HMW Y WHAT IF**
+#### Día 5 :
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
 - **User Persona**
@@ -186,5 +200,6 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
   - ¿Qué tal si Ana no tiene un Smartphone?
   - ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
 
-
+## **STORYBOARD**
+#### Día 6 :
 **continuara...**
