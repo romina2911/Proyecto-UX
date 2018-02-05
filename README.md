@@ -208,12 +208,13 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 
 ## **PROTOTYPING CONTENT**
 #### Día 7 :
-
-EASY BUS
+## 
+#### EASY BUS
 
 "Bienvenido a Easy Bus, donde comprar o reservar tu pasaje nunca fue tan fácil!"
 
 ¿Cómo quieres conectarte a Easy Bus?
+
  
    •	Facebook
  
@@ -245,6 +246,7 @@ Estos son los destinos de viaje que tenemos para ti:
 
 Al elegir tu destino(s)
 
+
    •	Ahora te alertaremos cuando viene un feriado o festividad para reservar o comprar tu pasaje a menos precio.
   
    •	Se generará una alerta de próximos días feriados o festividades
@@ -267,11 +269,11 @@ Perfecto estas empresas cubren tú presupuesto y están disponibles según tú d
 
 Ingresa la información para tu pasaje
 
-    	    - DNI
-	    - Fecha de viaje
-            - Horario
-            - Asiento
-    	    - Ruc/boleta
+    	   - DNI
+	   - Fecha de viaje
+           - Horario
+           - Asiento
+    	   - Ruc/boleta
             
 La  información de registro de tu pasaje.
 
@@ -281,16 +283,17 @@ Si no está seguro(a) de pagar aun, puedes reservar tu pasaje.
 
 Tu reserva expirará (un lapso de tiempo.)
 
+
    •	Se generará un recordatorio de reserva de su pasaje.
   
 Si deseas cancelar el pasaje, elegirás el medio de pagó.
 
-             - Visa
-   	     - Mastercard
-   	     - Pay-pal
-   	     - Pago en efectivo
-   	     - Agente bancario.
-  	     - Agencia de Viajes.
+            - Visa
+   	    - Mastercard
+   	    - Pay-pal
+   	    - Pago en efectivo
+   	    - Agente bancario.
+  	    - Agencia de Viajes.
             
 Se enviará el reporte de venta del pasaje al correo.
 
@@ -310,6 +313,8 @@ Configura tus alertas de viaje.
              - Dos veces al mes
 
 Ahora Easy Bus te alertara cada cierto tiempo y así ahorraras en la    compra de tu pasaje.
+
+## 
 
 
 **continuara...**
