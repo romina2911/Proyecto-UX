@@ -203,8 +203,10 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 ## **STORYBOARD**
 #### Día 6 :
 
+![storyboard](assets/images/storyboard1.jpg)
 
-## ** PROTOTYPING CONTENT**
+
+## **PROTOTYPING CONTENT**
 #### Día 7 :
 
 EASY BUS
@@ -233,11 +235,11 @@ Hola Ana [foto de perfil]   Juntos organizaremos tú viaje.
 
 Estos son los destinos de viaje que tenemos para ti:
 
-      		  - Tumbes
-     		    - Lambayaque
-      		  - Arequipa
-      		  - Cusco
-     		    - Cajamarca
+      	     - Tumbes
+     	     - Lambayaque
+      	     - Arequipa
+      	     - Cusco
+     	     - Cajamarca
 
 (Selecciona Cajamarca)
 
@@ -255,21 +257,21 @@ Te damos la opción ingresar tu presupuesto de pasaje y elegiremos lo mejor para
 
 Perfecto estas empresas cubren tú presupuesto y están disponibles según tú destino.
 
-         		-Cruz del sur
-         		-Civa
-         		-Movil Tours
-         		-Via
-        	 	-Otros
+            - Cruz del sur
+            - Civa
+            - Movil Tours
+            - Via
+            - Otros
             
 (Elige Cruz del Sur)
 
 Ingresa la información para tu pasaje
 
-    		    -DNI
-		        -Fecha de viaje
-    		    -Horario
-    		    -Asiento
-    		    -Ruc/boleta
+    	    - DNI
+	    - Fecha de viaje
+            - Horario
+            - Asiento
+    	    - Ruc/boleta
             
 La  información de registro de tu pasaje.
 
@@ -283,12 +285,12 @@ Tu reserva expirará (un lapso de tiempo.)
   
 Si deseas cancelar el pasaje, elegirás el medio de pagó.
 
-         		- Visa
-   		      - Mastercard
-   		      - Pay-pal
-   		      - Pago en efectivo
-   		      - Agente bancario.
-  		      - Agencia de Viajes.
+             - Visa
+   	     - Mastercard
+   	     - Pay-pal
+   	     - Pago en efectivo
+   	     - Agente bancario.
+  	     - Agencia de Viajes.
             
 Se enviará el reporte de venta del pasaje al correo.
 
@@ -302,10 +304,10 @@ Configura tus alertas de viaje.
 
    •	Ahora dinos, cada cuanto tiempo quieres que te hagamos recordar:
   
-            - Una vez al día
-            - Dos veces por semana
-            - Una vez por semana
-            - Dos veces al mes
+             - Una vez al día
+             - Dos veces por semana
+             - Una vez por semana
+             - Dos veces al mes
 
 Ahora Easy Bus te alertara cada cierto tiempo y así ahorraras en la    compra de tu pasaje.
 
