@@ -314,3 +314,11 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 
 
 - GRACIAS por usar EasyBus !!
+
+## **PROTOTYPING**
+
+![prototipo](assets/images/prototipo1.png)
+![prototipo](assets/images/prototipo2.png)
+![prototipo](assets/images/prototipo3.png)
+![prototipo](assets/images/prototipo4.png)
+![prototipo](assets/images/prototipo5.png)
