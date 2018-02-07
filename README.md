@@ -319,7 +319,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 
 ![prototipo](assets/images/prototipo1.png)
 ![prototipo](assets/images/prototipo2.png)
-![prototipo](assets/images/prototipo3.png)
+![prototipo](assets/images/protipo33.png)
 ![prototipo](assets/images/prototipo4.png)
 
 Flujo en caso decida reservar:
