@@ -212,12 +212,13 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 #### EASY BUS
 
 
-Hola Ana Rodriguez  
-"Bienvenido a Easy Bus!
+Hola Ana Rodriguez
+
+"Bienvenida a Easy Bus!
 
 - Disfruta de los Feriados y Festividades sin pagar más por tu pasajes.
 
-    * Permitir el uso de GPS para la ubicación.
+    - *Permitir el uso de GPS para la ubicación.*
 
 
 - Por el mes de Marzo :
@@ -230,7 +231,7 @@ Hola Ana Rodriguez
 
 - Al usuario se le muestra una imagen por festividad o feriados que se  aproximan.
 
-*(Elige viajar a Ayacucho por semana santa)*
+*(Elige viajar a Ayacucho por Semana Santa)*
 
 
 - A Ayacucho, puedes viajar con las siguientes empresas:
@@ -271,10 +272,10 @@ Del 1  al 5 de marzo
 Tu destino es para Huancayo.  
 Estas son las empresas que te llevan a tu destino, recuerda que la disponibilidad de asientos es limitada.
 
-    Cruz del Sur : *5 pasajes disponibles*
-   	Civa : *8 pasajes disponibles*
-  	Oltursa : *11 pasajes disponibles*
-  	Movil Bus : *5 pasajes disponibles*
+    Cruz del Sur : 5 pasajes disponibles
+   	Civa : 8 pasajes disponibles
+  	Oltursa : 11 pasajes disponibles
+  	Movil Bus : 5 pasajes disponibles
 
 *(Elige Cruz del Sur)*
 
@@ -309,7 +310,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
      Pasaje normal en temporada alta: S/ 160.00
      Pasaje comprado :S/.120.00
 
-     Ana ahorraste *S/.40.00 con Cruz del Sur.*
+     Ana ahorraste S/.40.00 con Cruz del Sur.
 
 
 - GRACIAS por usar EasyBus !!
