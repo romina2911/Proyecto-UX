@@ -169,16 +169,16 @@ Después de analizar  las entrevistas presenciales y las encuestas on-line y hab
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
 - **User Persona**
-  - Nombre: Ana Rodríguez 
+  - Nombre: Ana Rodríguez
   - Edad: 35 años
-  - Sexo: Mujer 
-  - Estado Civil: Soltera 
+  - Sexo: Mujer
+  - Estado Civil: Soltera
   - Ocupación: Comerciante
   - Distrito: Cercado de Lima
 
   Frase: “Detesto tener que pagar más por mis pasajes para poder realizar viajes en fiestas.”
 
-  Biografía: Comerciante emprendedora, madre de dos pequeños de edades consecutivas, Mauro de 13 y Olivia de 11. Originaria de Piura que radica en la ciudad de Lima, aprovecha en viajar en días festivos para distraerse o visitar a su familia. 
+  Biografía: Comerciante emprendedora, madre de dos pequeños de edades consecutivas, Mauro de 13 y Olivia de 11. Originaria de Piura que radica en la ciudad de Lima, aprovecha en viajar en días festivos para distraerse o visitar a su familia.
   Al tener que viajar en fechas festivas el alza de pasaje le molesta, olvida que se acercan dichas fechas y tiene que correr a comprar su pasaje.
 
 - **Problem Statement**
@@ -186,7 +186,7 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
   2. Ana necesita reservar sus pasajes para economizar más.
   3. Ana necesita recordar las fechas exactas de feriados u otros acontecimientos para la reserva de su pasaje.
   4. Ana necesita ser informada para comprar sus pasajes a tiempo.
-  5. Ana necesita alternativas de precios de pasajes para elegir el que le conviene. 
+  5. Ana necesita alternativas de precios de pasajes para elegir el que le conviene.
 
 - **HMW – How Might We?**
   - ¿Cómo podríamos ayudar a Ana a reservar sus pasajes con anticipación?
@@ -208,113 +208,109 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 
 ## **PROTOTYPING CONTENT**
 #### Día 7 :
-## 
+##
 #### EASY BUS
 
-"Bienvenido a Easy Bus, donde comprar o reservar tu pasaje nunca fue tan fácil!"
 
-¿Cómo quieres conectarte a Easy Bus?
+Hola Ana Rodriguez
 
- 
-   - Facebook
- 
-   - Gmail
-  
-   - Crea tu cuenta
-  
-    		- Ingresa correo electrónico 
-    		- Ingresa clave
-    		- Ingresa nombre
-            
-(Elige conectarse con “Gmail”)
+"Bienvenida a Easy Bus!
 
-Permitir el uso de GPS para la ubicación.
+- Disfruta de los Feriados y Festividades sin pagar más por tu pasajes.
 
-Hola Ana [foto de perfil]   Juntos organizaremos tú viaje.
-
-¿A dónde quieres viajar?
-
-Estos son los destinos de viaje que tenemos para ti:
-
-      	     - Tumbes
-     	     - Lambayaque
-      	     - Arequipa
-      	     - Cusco
-     	     - Cajamarca
-
-(Selecciona Cajamarca)
-
-Al elegir tu destino(s)
+    - *Permitir el uso de GPS para la ubicación.*
 
 
-   - Ahora te alertaremos cuando viene un feriado o festividad para reservar o comprar tu pasaje a menos precio.
-  
-   - Se generará una alerta de próximos días feriados o festividades
+- Por el mes de Marzo :
 
-Cajamarca, maravilloso lugar, se acercan los Carnavales, disfrutaras de las celebraciones.
+    - Viaja a Ayacucho por Semana Santa,  compra ahora y ahorra 30% en tus pasajes.
 
-Te damos la opción ingresar tu presupuesto de pasaje y elegiremos lo mejor para ti.
+    - Viaja a Huancayo para el Carnaval Jaujino , compra ahora y ahorra 25% en tus pasajes.
 
-(Ingreso su presupuesto)
+    - Viaja a Cuzco por Semana Santa, compra ahora y ahorra 35% en tus pasajes.
 
-Perfecto estas empresas cubren tú presupuesto y están disponibles según tú destino.
+- Al usuario se le muestra una imagen por festividad o feriados que se  aproximan.
 
-            - Cruz del sur
-            - Civa
-            - Movil Tours
-            - Via
-            - Otros
-            
-(Elige Cruz del Sur)
-
-Ingresa la información para tu pasaje
-
-    	     - DNI
-	     - Fecha de viaje
-             - Horario
-             - Asiento
-    	     - Ruc/boleta
-            
-La  información de registro de tu pasaje.
-
-Si no está seguro(a) de pagar aun, puedes reservar tu pasaje.
-
-(Elige reservar pasaje)
-
-Tu reserva expirará (un lapso de tiempo.)
+*(Elige viajar a Ayacucho por Semana Santa)*
 
 
-   - Se generará un recordatorio de reserva de su pasaje.
-  
-Si deseas cancelar el pasaje, elegirás el medio de pagó.
+- A Ayacucho, puedes viajar con las siguientes empresas:
 
-            - Visa
-   	    - Mastercard
-   	    - Pay-pal
-   	    - Pago en efectivo
-   	    - Agente bancario.
-  	    - Agencia de Viajes.
-            
-Se enviará el reporte de venta del pasaje al correo.
+    -	Cruz del Sur - 10 pasajes disponibles
 
-Estaremos recordándote cuando se acerca tu fecha de partida para tomar todas las previsiones necesarias.
+    -	Civa - 8 pasajes disponibles
 
-Un gusto, el poder ayudarte a escoger la mejor opción.
+    -	Oltursa – 12 pasajes disponibles
 
-Solo preocúpate de disfrutar tu viaje.
-
-Configura tus alertas de viaje.
-
-   - Ahora dinos, cada cuanto tiempo quieres que te hagamos recordar:
-  
-             - Una vez al día
-             - Dos veces por semana
-             - Una vez por semana
-             - Dos veces al mes
-
-Ahora Easy Bus te alertara cada cierto tiempo y así ahorraras en la    compra de tu pasaje.
-
-## 
+    -	Movil Bus – 5 pasajes disponibles
 
 
-**continuara...**
+
+- Para continuar es necesario registrarte o iniciar tu sesión con Facebook o Google.
+
+*(Elige iniciar sesión con Facebook)*
+
+- Se muestra el mes que viene o se puede elegir otro mes en adelante para ver feriados o festividades que habrá.
+
+   •	Marzo  
+   •	Abril  
+   •	Mayo  
+   •	Junio  
+
+*(Elige Marzo)*
+
+- Se visualizará las festividades que habrá en el mes de Marzo.
+
+   •	Semana Santa
+   •	Carnaval Jaujino
+
+*(Elige carnaval Jaujino)*
+
+- Te conviene comprar o reservar tus pasajes en estas fechas
+
+Del 1  al 5 de marzo  
+Tu destino es para Huancayo.  
+Estas son las empresas que te llevan a tu destino, recuerda que la disponibilidad de asientos es limitada.
+
+    Cruz del Sur : 5 pasajes disponibles
+   	Civa : 8 pasajes disponibles
+  	Oltursa : 11 pasajes disponibles
+  	Movil Bus : 5 pasajes disponibles
+
+*(Elige Cruz del Sur)*
+
+- Te damos la opción:
+
+	 - Comprar
+   - Reservar
+
+- ¡Excelente Ana!!, ahora:
+
+   - Ingresa la siguiente información para la compra de tu pasaje:
+      - DNI: 12324353
+      - Nombre(s) :Ana
+      - Apellidos :Rodriguez Varela.
+      - Edad: 35 años
+      - Sexo:
+         - F
+         - M
+      Asiento:
+       - N°36 extremo derecho.
+
+       Total:S/. 120.00
+
+  *(Elige pagar)*
+
+- ¡Listo!
+
+   Te estaremos enviando la confirmación de tu pasaje a tu correo electrónico.
+
+    Acabas de ahorrar:
+
+     Pasaje normal en temporada alta: S/ 160.00
+     Pasaje comprado :S/.120.00
+
+     Ana ahorraste S/.40.00 con Cruz del Sur.
+
+
+- GRACIAS por usar EasyBus !!
