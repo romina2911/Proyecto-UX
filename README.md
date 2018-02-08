@@ -204,6 +204,7 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 #### Día 6 :
 
 ![storyboard](assets/images/storyboard1.jpg)
+![storyboard2](assets/images/storyboard2.jpg)
 
 
 ## **PROTOTYPING CONTENT**
