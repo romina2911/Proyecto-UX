@@ -10,7 +10,12 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
-### **Planificación**  
+# ***DESARROLLO DEL PROYECTO***
+
+#### Día 1 
+
+### **PLANIFICACION** 
+
 ![Hoja de planificacion](assets/images/planificacion.JPG)  
 #### Día 1 :
   - Planificación del trabajo.  
@@ -59,11 +64,17 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 - **Testeo**
      - Hacer un content prototype.  
      - Testearlo en pareja con compañeras de otro squad.
-
-
-## **UX RESEARCH Y ANALISIS DE USUARIO.**
+     
+#### Día 7:
+- **Exposicion final**
+     - Testeo del la ultima versión del prototype.
+     - Presentación final del prototype.  
+     
+# 
 
 #### Día 2
+
+## **UX RESEARCH Y ANALISIS DE USUARIO.**
 
 ## **Encuestas presenciales.**
 
@@ -123,9 +134,8 @@ Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades 
 
 ![Encuestas](assets/images/encuesta2.jpg)
 
+#### Día 3 
 ## **DIAGRAMA DE AFINIDAD**
-
-#### Día 3 :  
 
 Se desarrolló el análisis de las encuestas realizadas para poder recopilar toda la información y los problemas encontrados.
 
@@ -143,9 +153,8 @@ Por ejemplo :
 
 ![Diagrama](assets/images/diagrama-3.jpg)
 
+#### Día 4 
 ## **PRESENTACIÓN DEL PROBLEMA**
-
-#### Día 4 :
 
 Temas encontrados en el diagrama de afinidad.
 
@@ -163,9 +172,9 @@ Después de analizar  las entrevistas presenciales y las encuestas on-line y hab
 
 ![Diagrama](assets/images/diagrama-4.jpg)
 
+#### Día 5 
+## **USER PERSON, PROBLEM STATEMENT, HMW, WHAT IF y STORYBOARD**
 
-## **USER PERSON, PROBLEM STATEMENT, HMW Y WHAT IF**
-#### Día 5 :
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
 - **User Persona**
@@ -201,14 +210,13 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
   - ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
 
 ## **STORYBOARD**
-#### Día 6 :
 
 ![storyboard](assets/images/storyboard1.jpg)
 ![storyboard2](assets/images/storyboard2.jpg)
 
-
+#### Día 6 
 ## **PROTOTYPING CONTENT**
-#### Día 7 :
+
 ##
 #### EASY BUS
 
@@ -295,8 +303,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
       - Sexo:
          - F
          - M
-      Asiento:
-       - N°36 extremo derecho.
+       - Asiento: 36
 
        Total:S/. 120.00
 
