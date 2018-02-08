@@ -210,7 +210,18 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
 #### Día 6 
 ## **PROTOTYPING CONTENT**
 
+Se realizó  un primer content prototype, en el cual recibimos feedback de otro squads, y nos ayudo a: 
+
+- Analizar  que contenido era necesario ponerle.
+- Hacer un mejor content prototype.
+- A empezar a tener una noción tangible de nuestro proyecto
+
+![prototipo](assets/images/testeoprototipo.jpeg)
+
 ##
+
+#### Content prototype final
+
 #### EASY BUS
 
 
@@ -317,24 +328,21 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 - GRACIAS por usar EasyBus !!
 
 #### Primer testeo entre squads
-Se realizó  un primer prototipo, en el cual recibimos feedback de otro squads, y nos ayudo a: 
 
-- Analizar  que contenido era necesario ponerle.
-- Hacer un mejor content prototype.
-- A empezar a tener una noción tangible de nuestro proyecto
-
-![prototipo](assets/images/testeoprototipo.jpeg)
 
 #### Día 7
 
 ## **PROTOTYPING ANTERIORES Y TESTEO**
 
-Diversos prototipos, realizados después de recibir feedback de diferentes personas.
+Diversos prototipos, realizados para mejorar el flujo de la aplicación.
 ![prototipo](assets/images/prototipos.jpeg)
 
 La primera versión 
+
 ![prototipo](assets/images/primeraversion.jpg)
 
+Testeó a diversas personas que nos ayudaron a implementar un mejor prototipo.
+![prototipo](assets/images/TESTEOS.jpg)
 #### Día 8
 
 ## **PROTOTYPING FINAL**
