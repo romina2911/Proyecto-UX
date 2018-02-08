@@ -67,6 +67,10 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
      
 #### Día 7:
 - **Exposicion final**
+     - Testeo del prototype a diferentes personas.
+     
+#### Día 8:
+- **Exposicion final**
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.  
      
@@ -177,18 +181,7 @@ Después de analizar  las entrevistas presenciales y las encuestas on-line y hab
 
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
-- **User Persona**
-  - Nombre: Ana Rodríguez
-  - Edad: 35 años
-  - Sexo: Mujer
-  - Estado Civil: Soltera
-  - Ocupación: Comerciante
-  - Distrito: Cercado de Lima
-
-  Frase: “Detesto tener que pagar más por mis pasajes para poder realizar viajes en fiestas.”
-
-  Biografía: Comerciante emprendedora, madre de dos pequeños de edades consecutivas, Mauro de 13 y Olivia de 11. Originaria de Piura que radica en la ciudad de Lima, aprovecha en viajar en días festivos para distraerse o visitar a su familia.
-  Al tener que viajar en fechas festivas el alza de pasaje le molesta, olvida que se acercan dichas fechas y tiene que correr a comprar su pasaje.
+![Diagrama](assets/images/userperson.png)
 
 - **Problem Statement**
   1. Ana quisiera viajar en una empresa que brinde seguridad en base a la recomendación de otras personas.
@@ -323,7 +316,28 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 
 - GRACIAS por usar EasyBus !!
 
-## **PROTOTYPING**
+#### Primer testeo entre squads
+Se realizó  un primer prototipo, en el cual recibimos feedback de otro squads, y nos ayudo a: 
+
+- Analizar  que contenido era necesario ponerle.
+- Hacer un mejor content prototype.
+- A empezar a tener una noción tangible de nuestro proyecto
+
+![prototipo](assets/images/testeoprototipo.jpeg)
+
+#### Día 7
+
+## **PROTOTYPING ANTERIORES Y TESTEO**
+
+Diversos prototipos, realizados después de recibir feedback de diferentes personas.
+![prototipo](assets/images/prototipos.jpeg)
+
+La primera versión 
+![prototipo](assets/images/primeraversion.jpg)
+
+#### Día 8
+
+## **PROTOTYPING FINAL**
 
 ![prototipo](assets/images/prototipo1.png)
 ![prototipo](assets/images/prototipo2.png)
@@ -333,3 +347,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 Flujo en caso decida reservar:
 
 ![prototipo](assets/images/protipo5.png)
+
+Link de la presentación final
+
+https://drive.google.com/file/d/1gDOwBtsRr9rSs0PK8-26sArjU-IS6jA8/view
