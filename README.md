@@ -361,13 +361,11 @@ Link de la presentación final
 https://drive.google.com/file/d/1gDOwBtsRr9rSs0PK8-26sArjU-IS6jA8/view
 
 ## **STORY TELLING**
-Había una vez comerciante emprendedora llamada Ana. Ella anhelaba regresar a Piura, la tierra que la vio nacer, ya que ahí se encontraba toda su familia.
+Ana es una comerciante emprendedora, y no tiene mucho tiempo libre. A ella le gusta viajar constantemente a Piura, tierra que la vio nacer, ya que ahí se encuentra toda su familia.
 
-Un día quizó comprar un pasaje a Piura, ya que se acercaban las fiestas navideñas y quería pasarlas con sus seres queridos. Se fue al terminal de buses a comprar sus pasajes, y se dio cuenta que había subido el precio de estos se había triplicado.
+Un día quizó comprar un pasaje a Piura, ya que se acercaban las fiestas navideñas y quería pasarlas con sus seres queridos. Se fue al terminal de buses a comprar sus pasajes, y al monento de tener que efectuar el pago se dio cuenta que había subido el precio al triple.Debido a esto Ana se sintió muy molesta y frustrada por tener que pagar de más.
 
-Debido a esto Ana se sintió muy molesta y frustrada por tener que pagar demás por el pasaje.
-
-Hasta que un día, conversando con una amiga, ésta le recomendó usar un App que le informaba cuando debía comprar sus pasajes de bus para economizar.
+Un día, conversando con una amiga sobre su experiencia en fiestas, ésta le recomendó usar un App que le informaba cuando debía comprar sus pasajes de bus para economizar.
 
 Ese día Ana conoció a EASYBUS, y encontró en esta app la solución a todos sus problemas y el alivio a su bolsillo. Desde entonces Ana puede viajar en fiestas a ver a sus seres queridos sin gastar de más.
 
