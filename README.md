@@ -1,4 +1,4 @@
-# Proyecto UX
+# PROYECTO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
 
 Proyecto UX es un reto en el cual aplicamos todo lo aprendido en la especialización para identificar la problemática en cuanto a los servicios de buses interprovinciales y resolverlo mediante un app móvil.
 
@@ -8,19 +8,19 @@ Proyecto UX es un reto en el cual aplicamos todo lo aprendido en la especializac
 [Laboratoria](http://laboratoria.la)
 ***
 
-# **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
+## DETALLES
 
 >Track: Common Core.  
 Unidad: Primer proyecto Ux.  
 
-### **Planteamiento del problema**  
+### **Planteamiento del problema*
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.  
 
 *Dado este contexto.*
 
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
-# ***DESARROLLO DEL PROYECTO***
+## DESARROLLO DEL PROYECTO
 
 #### Día 1 
 
@@ -84,7 +84,6 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.  
      
-# 
 
 #### Día 2
 
