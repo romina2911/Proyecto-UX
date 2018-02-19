@@ -1,3 +1,12 @@
+#**Proyecto-UX**
+Proyecto UX es un reto en el cual aplicamos todo lo aprendido en la especialización para identificar la problemática en cuanto a los servicios de buses interprovinciales y resolverlo mediante un app móvil.
+
+
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+***
+
 # **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
 
 >Track: Common Core.  
