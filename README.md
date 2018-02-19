@@ -1,5 +1,7 @@
-#**Proyecto-UX**
+**Proyecto-UX**
 Proyecto UX es un reto en el cual aplicamos todo lo aprendido en la especialización para identificar la problemática en cuanto a los servicios de buses interprovinciales y resolverlo mediante un app móvil.
+
+![uxproject](https://user-images.githubusercontent.com/32309909/36388330-7f058236-1569-11e8-9432-a917c63e30a3.jpg)
 
 
 
