@@ -2,7 +2,7 @@
 
 Proyecto UX es un reto en el cual aplicamos todo lo aprendido en la especialización para identificar la problemática en cuanto a los servicios de buses interprovinciales y resolverlo mediante un app móvil.
 
-![uxproject](https://user-images.githubusercontent.com/32309909/36388330-7f058236-1569-11e8-9432-a917c63e30a3.jpg)
+![final easy bus 9](https://user-images.githubusercontent.com/32309909/36506093-8d88a836-1723-11e8-899e-ef659227765f.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
